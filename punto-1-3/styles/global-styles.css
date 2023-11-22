@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+}
+a{
+font-family: "jost";
+font-size: 18px;
+}
+button{
+    padding: 12px 25px;
+    font-family: "jost";
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.button--orange{
+    margin-right: 10px;
+    background-color: #FD909E;
+    color: #fff;
+    border: none;
+}
+p{
+    font-family: "jost";
+    font-size: 15px;
+    font-weight: 300;
+}
+h2{
+    margin: 5px 0px;
+    color: #454868;
+    font-family: "jost";
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: -o.64px;
+}
