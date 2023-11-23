@@ -1,0 +1,15 @@
+body{
+    text-align: left;
+    margin-left: 650px;
+}
+.text-1{
+    font-weight: bolder;
+}
+.text-2{
+    color: yellow;
+    text-decoration: underline;
+}
+.text-3{
+    color: blueviolet;
+    text-decoration: underline;
+}
