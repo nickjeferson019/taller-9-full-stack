@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+#menu{
+   background-color: violet;
+}
+#menu ul{
+list-style: none;
+}
+#menu ul li{
+   display: inline-block;
+}
+#menu ul li a{
+    font-weight: 900;
+    color: white;
+    display: block;
+    padding: 30px;
+    text-decoration: none;
+}
+#menu ul li a:hover{
+background-color: blue;
+padding: 15px 20px;
+}

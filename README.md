@@ -23,3 +23,6 @@
 <h2>Punto 6:</h2>
 <img src="/public/images/6.png" alt="6">
 
+<h2>Punto 7:</h2>
+<img src="/public/images/7.png" alt="7">
+

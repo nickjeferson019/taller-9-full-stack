@@ -4,12 +4,15 @@ body{
 }
 .text-1{
     font-weight: bolder;
+    font-size: larger;
 }
 .text-2{
     color: yellow;
-    text-decoration: underline;
+    font-weight: bolder;
+    font-size: larger;
 }
 .text-3{
     color: blueviolet;
-    text-decoration: underline;
+    font-weight: bolder;
+    font-size: larger;
 }
