@@ -1,0 +1,29 @@
+body{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.tabla{
+    width: 800px;
+    border: 1px solid;
+    border-style: dotted;
+    border-collapse: collapse;
+}
+.tabla th{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: yellow;
+}
+.tabla th::first-letter{
+    font-size: 25px;
+} 
+.tabla td{
+    background-color: yellow;
+    border: 1px solid;
+    border-collapse: collapse;
+    border-style: dotted;
+}
+.tabla tfoot td{
+   border-color: red;
+   border-right-color: black;
+   border-left-color: black;
+}
